@@ -1,0 +1,6 @@
+@CleanArch.Onion_HostAddress = http://localhost:5142
+
+GET {{CleanArch.Onion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
